@@ -1,0 +1,16 @@
+# 敏感扫描数据与生成的报告（勿上传）
+20260816_JSON_Multiple_targets.json
+converted_report.json
+*.docx
+*.png
+
+# 生成目录
+workspace/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 已合并的旧版脚本
+generate_word.py
+convert_invicti_json.py
